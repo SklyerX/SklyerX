@@ -30,7 +30,7 @@
 
 <div align="center">
 <a href="mailto:Skyler2323@protonmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="90"></a><br>
-<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="telegram" width="90"></a>
+<a href="#"><img src="https://icons-for-free.com/iconfiles/png/512/super+tiny+icons+discord-1324450718427274623.png" alt="telegram" width="90"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90"></a>
 </div>
 
