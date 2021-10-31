@@ -1,4 +1,4 @@
-![SkylarX's Github Stats](https://github-readme-stats.vercel.app/api?username=SkylarXs&show_icons=true&theme=radical)
+![SkylarX's Github Stats](https://github-readme-stats.vercel.app/api?username=SklyerX&show_icons=true&theme=radical)
 
 <div align="center">
 <h2>Hi, I'm Skylar
