@@ -42,3 +42,6 @@
 	
 ##
 <div align="center"><font size="2px;">2021 © Created By SkylarX</font></div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
