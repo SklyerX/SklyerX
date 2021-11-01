@@ -14,7 +14,6 @@
   	pronouns: ['Skylar', 'He'],
     	Languages: ['Javascript', 'TypeScript', 'React', 'Html, 'Css', 'Vue', 'Python'],
     	Tools: ['VSCode', 'Node', 'Electron'],
-	Languages: ['JavaScript', 'Python', 'Vue.js', 'React', 'Html', 'Css']
     	hobbies:[
 	    WatchingMovies: true,
 	    TVSeries: true
