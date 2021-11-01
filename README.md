@@ -1,5 +1,3 @@
-![SkylarX's Github Stats](https://github-readme-stats.vercel.app/api?username=SklyerX&show_icons=true&theme=radical)
-
 <div align="center">
 <h2>Hi, I'm Skylar
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
@@ -39,10 +37,10 @@
 <h2>Like the stuff you see here?</h2>
 
 <a href="https://www.buymeacoffee.com/#"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=BoyCode&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-	
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Github Stats
+![SkylarX's Github Stats](https://github-readme-stats.vercel.app/api?username=SklyerX&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 	
 ##
 <div align="center"><font size="2px;">2021 © Created By SkylarX</font></div>
