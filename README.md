@@ -2,10 +2,10 @@
 <h2>Hi, I'm Skylar
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
 	
-<p align="center">
+<!-- <p align="center">
  <img src="https://discord.c99.nl/widget/theme-3/805166992432431124.png">
 </p>
-	<br/><br/><br/>
+	<br/><br/><br/> -->
 </h2>
 </div>
 <em>Developer & Founder of <a href="https://discord.gg/CGv49cYmK5">Sherloque Dev</a></em>
