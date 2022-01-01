@@ -17,11 +17,12 @@
  ```javascript
   const Skyler = {
   	pronouns: ['Skylar', 'He'],
-    	Languages: ['Javascript', 'TypeScript', 'React', 'Html, 'Css', 'Vue', 'Python'],
-    	Tools: ['VSCode', 'Node', 'Electron'],
+    	Languages: ['Javascript', 'TypeScript', 'React', 'Html, 'Css', Python'],
+    	Tools: ['VSCode', 'Node', 'Electron', 'Mongo', 'Firebase'],
     	hobbies:[
 	    WatchingMovies: true,
-	    TVSeries: true
+	    TVSeries: true,
+	    Coding: true
 	],  
     	Projects: {
     	    Sherloque: "a Security bot for discord that protects your servers from nukes / raids",
