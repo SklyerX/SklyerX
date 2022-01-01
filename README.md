@@ -60,4 +60,4 @@
 <a href="https://www.buymeacoffee.com/#"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=BoyCode&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a> -->
 	
 ## Copyright
-<div align="center"><font size="2px;">2021 © Created By SkylarX</font></div>
+<div align="center"><font size="2px;">2022 © Created By SkylarX</font></div>
