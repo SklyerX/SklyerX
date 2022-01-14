@@ -64,16 +64,13 @@
 ## My Github Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SklyerX&show_icons=true&theme=radical">
 
+```
+Eth: 0x82c55eAF77e10f128C4DCA18FE0033342639F817
+```
+
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SklyerX&layout=compact"> -->
 
 	
 <!-- <h2>Like the stuff you see here?</h2>
 
 <a href="https://www.buymeacoffee.com/#"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=BoyCode&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a> -->
-	
-## Copyright
-<div align="center"><font size="2px;">2022 © Created By SkylarX</font></div>
-
-```
-Eth: 0x82c55eAF77e10f128C4DCA18FE0033342639F817
-```
