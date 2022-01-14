@@ -49,6 +49,20 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+<h1 align="center">TOOLS</h1>
+<p align="center">
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>&nbsp; |
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>&nbsp; |
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></code>&nbsp; |
+    <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>&nbsp;
+</p>
+
+<h1 align="center">LEARN</h1>
+<p align="center">
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>&nbsp;
+</p>
+
+
 ## My Github Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SklyerX&show_icons=true&theme=radical">
 
