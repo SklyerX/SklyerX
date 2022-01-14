@@ -58,7 +58,6 @@
 <h1 align="center">LEARNING</h1>
 <p align="center">
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>&nbsp;
-    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg"></code>&nbsp;
 </p>
 
 
