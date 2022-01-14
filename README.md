@@ -52,14 +52,12 @@
 <h1 align="center">TOOLS</h1>
 <p align="center">
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>&nbsp; |
-    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>&nbsp; |
     <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></code>&nbsp; |
-    <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>&nbsp;
 </p>
 
 <h1 align="center">LEARN</h1>
 <p align="center">
-    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>&nbsp;
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>&nbsp;
 </p>
 
 
