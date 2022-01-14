@@ -73,3 +73,7 @@
 	
 ## Copyright
 <div align="center"><font size="2px;">2022 © Created By SkylarX</font></div>
+
+```
+Eth: 0x82c55eAF77e10f128C4DCA18FE0033342639F817
+```
