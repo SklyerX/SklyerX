@@ -29,7 +29,7 @@
     <br/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=5459a7" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=5459a7" alt="CSS" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/REACTJS-171717?style=for-the-badge&logo=csharp&logoColor=5459a7" alt="csharp" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/REACTJS-171717?style=for-the-badge&logo=reactjs&logoColor=5459a7" alt="csharp" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/RUBY-171717?style=for-the-badge&logo=php&logoColor=5459a7" alt="PHP" style="border-radius:15px"/>
 </div>
 
