@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web / Discord Project**
 
-- 👨‍💻 All of my projects are available at [https://bardia-ab.site](https://bardia-ab.site)
+- 👨‍💻 All of my projects are available at [https://SklyerX.github.io](https://SklyerX.github.io)
 
 - 💬 Ask me about **Discord.js or front-end**
 
