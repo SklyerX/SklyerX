@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bardia.Ab</h1>
 <h3 align="center">NODE.JS Developer - Web Developer - Application & Bot Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sklyerx&label=Profile%20views&color=0e75b6&style=flat" alt="sklyerx" /> </p>
-
 - 🔭 I’m currently working on [Nostra Bot](https://nostrabot.tk)
 
 - 🌱 I’m currently learning **Python** / **Rust**
