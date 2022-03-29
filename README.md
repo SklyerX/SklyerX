@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Nostra Bot](https://nostrabot.tk)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** / **Rust**
 
 - 👯 I’m looking to collaborate on **Web / Discord Project**
 
