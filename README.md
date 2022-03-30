@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Discord.js or front-end**
 
-- 📫 How to reach me **Skyler2323@protonmail.com**
+- 📫 How to reach me **https://discord.gg/CGv49cYmK5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
