@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python** / **Rust**
 
-- 👯 I’m looking to collaborate on **Web / Discord Project**
+- 👯 I’m looking to collaborate on **Web / Discord Project / Tools**
 
 - 👨‍💻 All of my projects are available at [https://SklyerX.github.io](https://sklyerx.github.io/sklyer-ab)
 
