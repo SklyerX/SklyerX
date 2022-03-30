@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bardia.Ab</h1>
+<h1 align="center">Hi 👋, I'm Sklyer-Ab</h1>
 <h3 align="center">NODE.JS Developer - Web Developer - Application & Bot Developer</h3>
 
 - 🔭 I’m currently working on [Nostra Bot](https://nostrabot.tk)
