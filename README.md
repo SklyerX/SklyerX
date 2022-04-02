@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h4 align="center"><samp> NODE.JS Developer - UI/UX Designer - Application / Web Developer / Bot Developer</samp></h4>
+<h4 align="center"><samp> NODE.JS Developer - UI Designer - Application / Web Developer / Bot Developer</samp></h4>
 </div>
 
 <br>
