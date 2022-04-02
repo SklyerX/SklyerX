@@ -43,7 +43,6 @@
     <img src="https://img.shields.io/badge/Express.js-171717.svg?style=for-the-badge&logo=express&logoColor=5459a7" alt="Express.js" style="border-radius:15px"/>     
     <img src="https://img.shields.io/badge/Discord.js-171717.svg?style=for-the-badge&logo=discord&logoColor=5459a7" alt="Discord.js" style="border-radius:15px"/> 
     <br/>
-    <img src="https://img.shields.io/badge/Heroku-171717?style=for-the-badge&logo=heroku&logoColor=5459a7" alt="Heroku" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-171717.svg?style=for-the-badge&logo=git&logoColor=5459a7" alt="Git" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=5459a7" alt="Markdown" style="border-radius:15px"/>
 </div>
