@@ -102,11 +102,16 @@ Ethereum :
         OperatingـSystem:[ LINUX , WINDOWS],
         LANGUAES: [ ENGLISH, PERSIAN, FRENCH ]
   }
-    const quoteDB = require('quote.json');
-    var favQuoute = quote.get({ favQuate });
-
-    favQuote = "Good Friends Want The Best In You, They Are Not Jelous Of You";
-    console.log()
+  
+  const quoteDB = require("../../models/quotes.js");
+  
+  quoteDB.findOne({ favQuote }, async(err, data) => {
+	if(err) throw err;
+	if(data) {
+	   console.log(data.favQuote);
+	   // Fake freinds will leave you when your at your lowest. real friends stay
+  }
+})
     
 ```
 
