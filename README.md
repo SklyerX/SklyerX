@@ -122,5 +122,5 @@ Ethereum :
 <br>
 
 <div align="center">
-<a href="https://app.daily.dev/SklyerX"><img src="https://api.daily.dev/devcards/76deecb1a52d4287bc5e8afe43557e71.png?r=tb4" width="400" alt="Skyler.Ab's Dev Card"/></a>
+<a href="https://app.daily.dev/SklyerX"><img src="https://api.daily.dev/devcards/76deecb1a52d4287bc5e8afe43557e71.png?r=4np" width="400" alt="Skyler.Ab's Dev Card"/></a>
 </div>
