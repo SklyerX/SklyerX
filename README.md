@@ -103,15 +103,15 @@ Ethereum :
         LANGUAES: [ ENGLISH, PERSIAN, FRENCH ]
   }
   
-  const quoteDB = require("../../models/quotes.js");
-  
-  quoteDB.findOne({ favQuote }, async(err, data) => {
-	if(err) throw err;
-	if(data) {
-	   console.log(data.favQuote);
-	   // Fake freinds will leave you when your at your lowest. real friends stay
-  }
-})
+const loves = require("../../models/loves.js");
+
+let data = await loves.find({}).skip(1).limit(50).exec();
+    res.json(data);
+// {
+//   "language": ["nodejs", "js"];
+     "Series": "How to sell drugs online (fast)",
+     "Movie": "John Wick"
+// }
     
 ```
 
