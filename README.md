@@ -109,8 +109,8 @@ let data = await loves.find({}).skip(1).limit(50).exec();
     res.json(data);
 // {
 //   "language": ["nodejs", "js"];
-     "Series": "How to sell drugs online (fast)",
-     "Movie": "John Wick"
+//     "Series": "How to sell drugs online (fast)",
+//     "Movie": "John Wick"
 // }
     
 ```
