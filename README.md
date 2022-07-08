@@ -108,9 +108,10 @@ const loves = require("../../models/loves.js");
 let data = await loves.find({}).skip(1).limit(50).exec();
     res.json(data);
 // {
-//   "language": ["nodejs", "js"];
+//     "language": ["nodejs", "js"];
 //     "Series": "How to sell drugs online (fast)",
-//     "Movie": "John Wick"
+//     "Movie": "John Wick",
+//     "Hobbies": ["Coding", "Canada's Wonderland", "Math", "Basketball", "Watching Stuff"]
 // }
     
 ```
