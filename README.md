@@ -117,7 +117,7 @@ let data = await loves.find({}).skip(1).limit(50).exec();
 ```
 
 <div align="center"> 
-    <img align="center" src="https://discord.c99.nl/widget/theme-1/805166992432431124.png" alt=""/>
+    <img src="https://lanyard.cnrad.dev/api/805166992432431124?bg=333333&borderRadius=10px" />
 </div>
 
 <br>
