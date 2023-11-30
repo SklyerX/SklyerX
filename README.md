@@ -44,28 +44,5 @@
 
   
 <div align="center"> 
-    <img src="https://lanyard.cnrad.dev/api/805166992432431124?bg=333333&borderRadius=10px" />
+    <img src="https://lanyard.cnrad.dev/api/1029913381643227157?bg=333333&borderRadius=10px" />
 </div>
-
-
-<br />
-<a href="https://app.daily.dev/SklyerX"><img src="https://api.daily.dev/devcards/76deecb1a52d4287bc5e8afe43557e71.png?r=sk4" width="400" alt="Ho3ein's Dev Card"/></a>
-</div>
-
-<h3 align="center">Connect with me 📩</h3>
-<div align="center">
-<a href="https://github.com/SklyerX">
-<img align="center" alt="SklyerX | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="https://www.instagram.com/SklyerX_/">
-<img align="center" alt="SklyerX | Instagram"  src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF" />
-</a>
-<a href="https://obsv.ga/main">
-<img align="center" alt="SklyerX | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
-</a>
-</div>
-
-
-[github]: https://github.com/SklyerX
-[Instagram]: https://www.instagram.com/_6.12.11
-[discord]: https://obsv.ga/main
