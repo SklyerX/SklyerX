@@ -35,6 +35,9 @@
   <a href="http://www.github.com/SklyerX"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SklyerX&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed" /></a>
   
 <br />
+<a href="https://wakatime.com/@SkylerX" target="_blank">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=SkylerX&icon_color=3382ed&show_icons=true&langs_count=10&theme=react&title_color=3382ed&layout=compact&hide_border=true&bg_color=0D1117"></a>
+<br />
   <a href="http://www.github.com/SklyerX"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SklyerX&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
   
